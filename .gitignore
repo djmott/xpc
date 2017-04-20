@@ -11,3 +11,6 @@ toolchain/src/build.log
 toolchain/src/config
 toolchain/src/config.gen
 toolchain/x86_64-xpc-linux-gnu
+/recipes/**/src/*
+recipes/binutils/binutils*.tar.gz
+recipes/pacman/pacman*.tar.gz
